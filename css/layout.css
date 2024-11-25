@@ -4273,6 +4273,7 @@ p.justify{
 	text-align:center;
 	display:block;
 	width:100%;
+	filter: drop-shadow(1px 2px 2px black);
 }
 .footer-img img{
 	width:80px;
